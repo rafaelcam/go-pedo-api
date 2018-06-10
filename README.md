@@ -1,4 +1,7 @@
 # Go PeDo API
+
+<a href="https://codeclimate.com/github/rafaelcam/go-pedo-api/maintainability"><img src="https://api.codeclimate.com/v1/badges/1600c70ad7db756736f5/maintainability" /></a>
+
 API in GO that upon receiving a single request, returns the following information:
 
 * Print the numbers from 1 to 100. 
