@@ -1,4 +1,4 @@
-# Go PéDo API
+# Go PeDo API
 API in GO that upon receiving a single request, returns the following information:
 
 * Print the numbers from 1 to 100. 
@@ -54,7 +54,7 @@ Code | Response
 ------------ | -------------
 `200` | `{"status":"OK"}`
 
-## API PéDo
+## API
 
 **REQUEST**
 
