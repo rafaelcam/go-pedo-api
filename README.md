@@ -35,7 +35,7 @@ If all goes well you should see a `vendor` folder with the project dependencies.
 ## Running the Tests
 Run the following command to run the tests.
 
-```
+```bash
 #!$GOPATH/src/github.com/rafaelcam/go-pedo-api
 $ go test ./...
 ```
