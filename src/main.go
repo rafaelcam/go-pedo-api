@@ -1,10 +1,10 @@
 package main
 
 import (
-	"net/http"
-	"github.com/gorilla/mux"
 	"github.com/apex/log"
+	"github.com/gorilla/mux"
 	"github.com/rafaelcam/go-pedo-api/src/controllers"
+	"net/http"
 	"time"
 )
 

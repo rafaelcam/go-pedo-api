@@ -32,6 +32,14 @@ $ dep ensure
 ```
 If all goes well you should see a `vendor` folder with the project dependencies.
 
+## Running the Tests
+Run the following command to run the tests.
+
+```
+#!$GOPATH/src/github.com/rafaelcam/go-pedo-api
+$ go test ./...
+```
+
 ## Running the Application
 With the correct folder structure in your `$GOPATH` and downloaded dependencies
 run the command below to run the application:
